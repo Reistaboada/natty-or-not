@@ -6,7 +6,7 @@
 Olá pessoal, me chamo Fabiana! Inspirado na hype do fisiculturismo "Natty or Not", este projeto explora as fronteiras entre a criação humana e a produção artificial. Em um mundo onde as inteligências artificiais gerativas estão revolucionando a forma como criamos conteúdo, mergulharemos nesse mundo das ias generativas e te convido a explorar o potencial dessas tendências tecnológicas incríveis!
 
 
-## Tecnólogias utilizadas 💪
+## Tecnologias utilizadas 💪
 
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
