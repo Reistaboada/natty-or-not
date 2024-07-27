@@ -20,5 +20,5 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 
 O resultado do trabalho é uma análise abrangente e envolvente das maneiras como as inteligências artificiais gerativas estão moldando o futuro da criação de conteúdo. 
 
-<a href=""> Clique para ver o vídeo </a>
+<a href="https://github.com/Reistaboada/natty-or-not/blob/main/V%C3%ADdeo.md"> Clique para ver o vídeo </a>
 
